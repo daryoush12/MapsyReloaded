@@ -20,6 +20,7 @@
         "@types/react-dom": "^16.9.9",
         "antd": "^4.16.1",
         "firebase": "^8.6.3",
+        "google-map-react": "^2.1.10",
         "jsx": "^0.9.89",
         "pure-react-carousel": "^1.27.6",
         "react": "^16.13.1",
